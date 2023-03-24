@@ -47,6 +47,7 @@ body{
             word-spacing: 1px;
             color: lightslategray;
             font-size: 18px;
+            line-height:25px ;
         
         }
     
@@ -75,14 +76,51 @@ body{
         font-size: 30px;
         font-weight: bold;
 
-        
+
+
     }
+    /* /* section-three * */
+    /* #{
+        word-spacing: 1px;
+        color: lightslategray;
+        font-size: 18px;
+        line-height:25px ;
     
-        
-        
 
-        
-        
+    }
+ */
+
+
+    #container {
+        width:900px ;
+        margin: 25px auto;      
+    }
+
+    .header-one , .header-two , .header-three {
+        width: 230px;
+        float: left;
+        margin: 10px;
+
+    }
+    .header-one {
+        background-color:skyblue ;
+        padding: 50px 30px 20px 10px ;
+    }
+
+    .header-two {
+        background-color: lightpink;
+        padding: 50px 30px 20px 10px ;
+    }
+
+    .header-three{
+        background-color: antiquewhite;
+        padding: 50px 30px 20px 10px ;
+    
+    }
 
     
+    
+    
 
+
+    
