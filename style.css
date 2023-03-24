@@ -33,6 +33,56 @@ body{
         padding: 10px 24px;
         border:none ;
         border-radius: 6px;
-
+        }
+        /* section-two */
+        .header-parent{
+            text-align: center;
+           
+        }
+        .header-headline{
+            margin: 6% auto  2% auto;
+            font-size:50px ;
+        }
+        .p-two{
+            word-spacing: 1px;
+            color: lightslategray;
+            font-size: 18px;
+        
+        }
+    
+    .box-background{
+        display: inline-block;
     }
+    .box{
+        display: inline-block;
+    
+    margin: 60px 10px 60px 10px;
+     padding: 45px 25px 45px 25px ; 
+    
+    
+    font-size:30px;
+    font-weight: normal;
+    background-color:whitesmoke;
+    color: lightslategray;
+    }
+    .box-two{
+        display: inline-block;
+         background-color: antiquewhite;
+         color:rgb(255, 0, 76);
+         border: 2px solid  rgb(255, 0, 76);;
+         margin: 60px 10px 60px 10px;
+         padding: 45px 25px 45px 25px ; 
+        font-size: 30px;
+        font-weight: bold;
+
+        
+    }
+    
+        
+        
+
+        
+        
+
+    
 
