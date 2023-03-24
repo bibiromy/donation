@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    }
+    .banner{
+        background-image:  url("images/handdonation.jpg");
+        /* height: 500px; */
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+        padding: 160px;
+        color: white;
+    }
+    .banner-headling{
+        font-size: 55px;
+        width: 70%;
+        margin: auto; 
+        letter-spacing:3px; 
+
+    }
+    .banner-p{
+        font-size:16px ;
+        width: 55%;
+        margin: 25px auto 30px auto;
+        word-spacing: 2px;
+        letter-spacing: 1px;
+        line-height: 25px;
+    }
+    button{
+        background-color:rgb(255, 0, 76);
+        color: white;
+        padding: 10px 24px;
+        border:none ;
+        border-radius: 6px;
+
+    }
+
